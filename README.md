@@ -1,5 +1,7 @@
 Just a repo for ECDOsim artifacts.
 
+Mostly renders.
+
 # nit
 
 So, just upload it and then up the domain res. All the forces should be ready to go.
